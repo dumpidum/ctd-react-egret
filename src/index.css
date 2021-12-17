@@ -5,6 +5,7 @@ body {
   background: darkgray;
   font-family: 'Varela Round', sans-serif;
   color: darkslateblue;
+  margin: 5px;
 }
 
 #root {
